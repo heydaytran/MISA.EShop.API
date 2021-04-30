@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkGnQA14VZduvcYuNfcQR0GLpR23O0s95dsk7FTuh77i7Xo+5Bq2Bt81G6yBGHw6ps9WBZwT+1/NvNb8NomSQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Desktop\\TuProject\\MISA.eShop.NgoThiCamTu\\MISA.EShop.API\\MISA.EShop.WebAPI\\MISA.EShop.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\1.3.3\\mysqlconnector.1.3.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
